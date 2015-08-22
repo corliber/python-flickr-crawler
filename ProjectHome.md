@@ -1,0 +1,1 @@
+high configurable all purpose flickr photos crawler
